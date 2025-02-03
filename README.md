@@ -16,6 +16,6 @@ Concepts & Skills Covered:
 
 ✅ Evaluating the impact of imputation on data quality
 
-🔗 How to Use: Run the notebook to explore missing data handling techniques and gain insights into the best practices for dealing with incomplete./n datasets.
+🔗 How to Use: Run the notebook to explore missing data handling techniques and gain insights into the best practices for dealing with incomplete datasets.
 
 Let me know if you’d like any modifications! 🚀
